@@ -168,7 +168,7 @@ header nav a:hover {
 .footer .ordernow {
     width: 326px;
     height: 322px;
-    background-image: url(images/order0.png);
+    background-image: url(../images/order0.png);
     background-size: cover;
     animation: orderz 1s infinite linear;
 }
@@ -229,7 +229,7 @@ header nav a:hover {
     }
 
     100% {
-        background-image: url(images/order.png);
+        background-image: url(../images/order.png);
 
     }
 }
